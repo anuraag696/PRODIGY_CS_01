@@ -36,4 +36,4 @@ Feel free to contribute and improve the program!
 
 ## Author
 
-- Aseem Shaikh
+- Anuraag Gupta
